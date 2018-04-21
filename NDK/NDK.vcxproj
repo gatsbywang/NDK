@@ -170,6 +170,7 @@
   <ItemGroup>
     <ClInclude Include="com_demo_ndk_NdkSimple.h" />
     <ClInclude Include="com_demo_ndk_NdkSimple2.h" />
+    <ClInclude Include="com_demo_ndk_NdkSimple3.h" />
     <ClInclude Include="jni.h" />
     <ClInclude Include="jni_md.h" />
   </ItemGroup>
