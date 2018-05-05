@@ -38,5 +38,8 @@
     <ClInclude Include="com_demo_ndk_NdkSimple3.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="com_demo_ndk_NdkSimple4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
